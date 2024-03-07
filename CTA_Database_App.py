@@ -1,6 +1,6 @@
 ##################################################################  
-# CS 341: CTA Database App
-# Ceasar Attar, catta2@uic.edu, 673606735
+# CTA Database App
+# Ceasar Attar
 # VSCode on MacOS
 # In this App I have utilized all 9 different commands to provide the user with the desired output for each command
 ##################################################################  
